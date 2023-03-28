@@ -1,1 +1,1 @@
-# pruebaGitTeam
+# pruebaGit

@@ -1,0 +1,22 @@
+#marquee1{
+
+   font-size: 30px;
+   
+   color:blue;
+}
+#linea{
+    display:inline;
+}
+
+#bloque{
+    display:block;
+}
+
+
+#miIdentificador{
+    font-size: 30px;
+}
+
+.textoPequeño{
+    font-size: 4px;
+}
